@@ -41,8 +41,32 @@ git commit -m "<your message>"
 git commit --amend
 ```
 
-message should me in present tense
+- message should me in present tense. e.g. setup the initial git
 
+```bash
+git log --oneline
 ```
 
+- Adding remote to our repository
+
+```bash
+git remote add orgin <repository_url>
+```
+
+- Check current branch
+
+```bash
+git branch
+```
+
+-rename current branch
+
+```bash
+git branch -M <>
+```
+
+- push letest changes to the remote
+
+```bash
+git push origin <branch_name>
 ```
