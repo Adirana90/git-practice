@@ -31,8 +31,18 @@ git add <file_or_folder_path>
 
 -commit the change file
 
+```bash
+git commit -m "<your message>"
 ```
-git commit -m <your message>
+
+-Amend the last commit message
+
+```bash
+git commit --amend
+```
 
 message should me in present tense
+
+```
+
 ```
