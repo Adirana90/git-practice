@@ -70,3 +70,15 @@ git branch -M <>
 ```bash
 git push origin <branch_name>
 ```
+
+- checkout new branch
+
+```bash
+git checkout -b <branch_name>
+```
+
+-checkout existing branch
+
+```bash
+git checkout <branch_name>
+```
