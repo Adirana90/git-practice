@@ -82,3 +82,9 @@ git checkout -b <branch_name>
 ```bash
 git checkout <branch_name>
 ```
+
+- pull latest code from remote
+
+```bash
+git pull origin <branch_name>
+```
